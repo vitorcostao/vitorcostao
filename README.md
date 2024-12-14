@@ -11,10 +11,10 @@
 
 Meu nome é Vitor Costa Oliveira Rolla, sou estudante de Ciência da Computação na PUC Minas. Atualmente, venho aperfeiçoando habilidades em programação, especialmente em programação preventiva.
 
-Amo estudar e criar projetos práticos. Guias de estudo me permitem tanto aplicar os conceitos aprendidos em sala de aula quanto aprender recursos das linguagens de programação por conta própria. Sou entusiasta de C e C++ e, futuramente, pretendo explorar outras linguagens e tecnologias.
+Amo estudar e criar projetos práticos e guias de estudo me permitem tanto aplicar os conceitos aprendidos em sala de aula quanto aprender recursos das linguagens de programação por conta própria. Sou entusiasta de C e C++ e, futuramente, pretendo explorar outras linguagens e tecnologias.
 
-Além disso, cuido e prezo pelo meu caráter. Em um mundo com muitas crenças e visões distintas, o respeito é algo imprescindível para que possamos trabalhar em equipe. Por isso, busco constantemente melhorar como ser humano, pois acredito que somente assim é possível conviver e colaborar de forma harmoniosa com outras pessoas.
+Além disso, cuido e prezo pelo meu caráter. Em um mundo com muitas crenças e visões distintas, o respeito é algo imprescindível para trabalhar em equipe. Por isso, busco constantemente melhorar como ser humano, pois acredito que somente assim é possível conviver e colaborar de forma harmoniosa com outras pessoas, especialmente em um ambiente de trabalho.
 
-No tempo livre, me dedico também a hobbies como tocar instrumentos (violão, baixo, piano), o que me ajuda a equilibrar a vida acadêmica com momentos de criatividade e lazer. Toda área do conhecimento possui uma técnica por trás, e estimular a criatividade e o lazer são peças-chave para descobrir essas técnicas e dominá-las. 🚀
+No tempo livre, dedico-me também a hobbies como tocar instrumentos (violão, baixo, piano) e jogar futebol e tennis, o que me ajuda a equilibrar a vida acadêmica com momentos de criatividade e lazer. Toda área do conhecimento possui uma técnica por trás, e estimular a criatividade e o lazer são peças-chave para descobrir essas técnicas e dominá-las. 🚀
 
-Me acompanhe aqui no GitHub, onde compartilho projetos e contribuições! 😊
+Acompanhe-me aqui no GitHub, onde compartilho projetos e contribuições! 😊
