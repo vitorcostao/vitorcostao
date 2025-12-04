@@ -1,18 +1,28 @@
-<h2 align="left">Vitor Costa Oliveira Rolla.<br> Ciencia da computacao - PUC MINAS</h2>
 
-###
+# Vitor Costa Oliveira Rolla
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorcostao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorcostao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Sobre mim
 
-<br clear="both">
+  - Graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais.
+  - Apresentando conteúdos estudados durante a graduação de forma atualizada. 
+  - Interesses pessoais em Cloud Computing, IA e Bancos de dados.
+  - Contato pessoal: vitor.costa.rolla@gmail.com.
 
-Meu nome é Vitor Costa Oliveira Rolla, sou estudante de Ciência da Computação na PUC Minas. Atualmente, venho aperfeiçoando habilidades em programação, especialmente em programação preventiva.
+## Tecnologias
 
-Amo estudar e criar projetos práticos e guias de estudo me permitem tanto aplicar os conceitos aprendidos em sala de aula quanto aprender recursos das linguagens de programação por conta própria. Sou entusiasta de java e, futuramente, pretendo explorar outras linguagens e tecnologias.
+ - ### Linguagens de Programação
 
-Além disso, cuido e prezo pelo meu caráter. Em um mundo com muitas crenças e visões distintas, o respeito é algo imprescindível para trabalhar em equipe. Por isso, busco constantemente melhorar como ser humano, pois acredito que somente assim é possível conviver e colaborar de forma harmoniosa com outras pessoas, especialmente em um ambiente de trabalho.
+    [![My Skills](https://skillicons.dev/icons?i=java,c,cpp&theme=dark)](https://skillicons.dev)
 
-Acompanhe-me aqui no GitHub, onde compartilho projetos e contribuições! 😊
+- ### Tecnologias e Ferramentas
+
+  [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,maven,postgres,mysql&theme=dark)](https://skillicons.dev)
+
+- ### Apresentações
+
+  [![My Skills](https://skills.syvixor.com/api/icons?i=overleaf)]([https://skillicons.dev](https://github.com/tandpfun/skill-icons/issues/1412))
+
+## Atualmente
+
+ - ### *Aws* - Os serviços de nuvem aumentam a margem de lucro das empresas e por isso é necessário que haja pessoas capacitadas para tal ramo.
+ - ### *Swift* - Surge como principal linguagem para desevolvimento mobile, que tem se tornado uma área de interesse pessoal. 
