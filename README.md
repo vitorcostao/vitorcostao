@@ -22,7 +22,3 @@
 
   [![My Skills](https://skills.syvixor.com/api/icons?i=overleaf)]([https://skillicons.dev](https://github.com/tandpfun/skill-icons/issues/1412))
 
-## Atualmente
-
- - ### *Aws* - Os serviços de nuvem aumentam a margem de lucro das empresas e por isso é necessário que haja pessoas capacitadas para tal ramo.
- - ### *Swift* - Surge como principal linguagem para desevolvimento mobile, que tem se tornado uma área de interesse pessoal. 
