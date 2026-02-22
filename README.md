@@ -12,7 +12,7 @@
 
  - ### Linguagens de Programação
 
-    [![My Skills](https://skillicons.dev/icons?i=java,c,cpp&theme=dark)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark)](https://skillicons.dev)
 
 - ### Tecnologias e Ferramentas
 
